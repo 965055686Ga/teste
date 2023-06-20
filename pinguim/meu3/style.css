@@ -1,5 +1,21 @@
 @charset "UTF-8";
 
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
 body{
     background-color: rgb(20, 20, 20);
+}
+
+div p{
+    color: white;
+    text-align: end;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    padding-top: 10px;
 }
